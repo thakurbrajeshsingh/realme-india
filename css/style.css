@@ -1,3 +1,45 @@
-.carousel-inner img{
-    height: auto;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+
+
+body{
+    /* overflow: hidden; */
+    background-color: rgba(223, 217, 217, 0.6);
 }
+/* Phones Catlog */
+.card-title{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-weight: 600;
+}
+.card-text{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.mobile h2{
+    margin: 20px;
+    text-align: center;
+}
+.outer{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.card img{
+    margin-top: 5px;
+    margin-left: 27%;
+    height: 200px;
+    width: 150px;
+}
+.card:hover{
+    zoom: 105%;
+    border: 2px solid rgb(199, 193, 193);
+}
+
+
+
+
+
+
+
+
+
+
