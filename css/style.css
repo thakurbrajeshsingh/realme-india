@@ -40,6 +40,10 @@ body{
 /* banner section */
 
 /* footer section */
+.row{
+    margin-top: 20px;
+}
+
 .banner{
     margin-top: 40px;
 }
