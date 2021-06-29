@@ -38,11 +38,18 @@ body{
 
 
 /* banner section */
+
+/* footer section */
 .banner{
     margin-top: 40px;
-
 }
 
+.col h5{
+    text-align: center;
+}
+.col ul{
+    text-align: center;
+}
 
 
 
