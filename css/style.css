@@ -15,8 +15,8 @@ body{
     font-family: 'Poppins', sans-serif;
     text-align: center;
 }
-.mobile h2{
-    margin: 20px;
+.header h2{
+    margin: 40px;
     text-align: center;
 }
 .outer{
@@ -30,9 +30,31 @@ body{
     width: 150px;
 }
 .card:hover{
-    zoom: 105%;
+    z-index: 5px;
     border: 2px solid rgb(199, 193, 193);
 }
+
+/* accessories section */
+
+
+/* banner section */
+.banner{
+    margin-top: 40px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
